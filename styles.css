@@ -121,17 +121,13 @@ body {
 
 .hero__content { position: relative; z-index: 2; max-width: 720px; }
 
-/* Lock icon mark */
+/* Logo mark */
 .hero__mark {
-  width: 56px; height: 56px;
+  width: 120px; height: 120px;
   margin: 0 auto var(--s6);
-  border: 2px solid var(--neon-green);
-  border-radius: var(--r-md);
   display: grid; place-items: center;
-  box-shadow: var(--glow-green);
-  background: rgba(0,255,102,.06);
 }
-.hero__mark svg { width: 28px; height: 28px; }
+.hero__mark img { width: 120px; height: 120px; display: block; }
 
 .hero__title {
   font-family: var(--font-display);
