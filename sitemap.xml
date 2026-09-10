@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://cannalog.app/</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://cannalog.app/assets/01_dashboard.webp</image:loc>
+      <image:title>CannaLog Dashboard</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://cannalog.app/assets/02_strain_library.webp</image:loc>
+      <image:title>CannaLog Strain Library</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://cannalog.app/assets/03_grow_guide.webp</image:loc>
+      <image:title>CannaLog Grow Guide</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://cannalog.app/assets/04_grow_detail.webp</image:loc>
+      <image:title>CannaLog Grow Detail</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://cannalog.app/assets/05_compliance.webp</image:loc>
+      <image:title>CannaLog Compliance Dashboard</image:title>
+    </image:image>
+  </url>
+</urlset>
