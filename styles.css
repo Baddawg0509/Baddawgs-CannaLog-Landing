@@ -123,11 +123,11 @@ body {
 
 /* Logo mark */
 .hero__mark {
-  width: 120px; height: 120px;
+  width: 200px; height: 200px;
   margin: 0 auto var(--s6);
-  display: grid; place-items: center;
+  display: flex; align-items: center; justify-content: center;
 }
-.hero__mark img { width: 120px; height: 120px; display: block; }
+.hero__mark img { width: 200px; height: 200px; display: block; }
 
 .hero__title {
   font-family: var(--font-display);

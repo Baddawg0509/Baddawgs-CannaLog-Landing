@@ -2,28 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
-    <loc>https://baddawg-grow.app/</loc>
+    <loc>https://baddawggrow.com/</loc>
     <lastmod>2026-09-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
-      <image:loc>https://baddawg-grow.app/assets/01_dashboard.webp</image:loc>
+      <image:loc>https://baddawggrow.com/assets/01_dashboard.webp</image:loc>
       <image:title>Baddawg Grow Dashboard</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://baddawg-grow.app/assets/02_strain_library.webp</image:loc>
+      <image:loc>https://baddawggrow.com/assets/02_strain_library.webp</image:loc>
       <image:title>Baddawg Grow Strain Library</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://baddawg-grow.app/assets/03_grow_guide.webp</image:loc>
+      <image:loc>https://baddawggrow.com/assets/03_grow_guide.webp</image:loc>
       <image:title>Baddawg Grow Grow Guide</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://baddawg-grow.app/assets/04_grow_detail.webp</image:loc>
+      <image:loc>https://baddawggrow.com/assets/04_grow_detail.webp</image:loc>
       <image:title>Baddawg Grow Grow Detail</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://baddawg-grow.app/assets/05_compliance.webp</image:loc>
+      <image:loc>https://baddawggrow.com/assets/05_compliance.webp</image:loc>
       <image:title>Baddawg Grow Compliance Dashboard</image:title>
     </image:image>
   </url>
